@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on many projects aligning in python, javascript,html/css. and web devolopment
 - 📫 How to reach me @josephmuloki(twitter, github, linkedin) +256742452726. jmulokikisira@gmail.com
 - 😄 Pronouns: He/Mr.
-- ⚡ Fun fact: I love reading, writing, cooking, researching and developing.
+- ⚡ Fun fact: I love reading, writing, cooking, watching, researching and developing.
 
 <!---
 Josephmuloki/Josephmuloki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
