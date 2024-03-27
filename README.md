@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and application development and networking as well.
 - 🌱 I’m currently learning python, java script and html/css and currently a student of a Bachelors degree of science in information technology.
 - 💞️ I’m looking to collaborate on many projects aligning in python, javascript,html/css. and web devolopment
-- 📫 How to reach me @josephmuloki(twitter, github, linkedin) +256742452726. jmulokikisira@gmail.com
+- 📫 How to reach me @josephmuloki(twitter, github, linkedin) +256742452726 for calls. jmulokikisira@gmail.com
 - 😄 Pronouns: He/Mr.
 - ⚡ Fun fact: I love reading, writing, cooking, watching, researching and developing.
 
