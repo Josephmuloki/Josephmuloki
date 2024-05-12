@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Josephmuloki
+- 👋 Hi, I’m muloki kisira joseph @Josephmuloki
 - 👀 I’m interested in web and application development and networking as well.
 - 🌱 I’m currently learning python, java script and html/css and currently a student of a Bachelors degree of science in information technology.
 - 💞️ I’m looking to collaborate on many projects aligning in python, javascript,html/css. and web devolopment
